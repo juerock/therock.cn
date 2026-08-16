@@ -1,2 +1,1 @@
 # therock.cn
-therock.cn
