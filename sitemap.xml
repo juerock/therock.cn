@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/getting-started/introduction</loc>
+  </url>
+  <url>
+    <loc>/getting-started/installation</loc>
+  </url>
+  <url>
+    <loc>/getting-started/project-structure</loc>
+  </url>
+  <url>
+    <loc>/getting-started/studio</loc>
+  </url>
+  <url>
+    <loc>/getting-started/migration</loc>
+  </url>
+  <url>
+    <loc>/getting-started/troubleshooting</loc>
+  </url>
+  <url>
+    <loc>/essentials/markdown-syntax</loc>
+  </url>
+  <url>
+    <loc>/essentials/code-blocks</loc>
+  </url>
+  <url>
+    <loc>/essentials/components</loc>
+  </url>
+  <url>
+    <loc>/essentials/images-embeds</loc>
+  </url>
+  <url>
+    <loc>/</loc>
+  </url>
+</urlset>
